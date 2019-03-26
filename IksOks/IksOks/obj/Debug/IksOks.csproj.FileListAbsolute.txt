@@ -1,0 +1,10 @@
+C:\Users\Melida\source\repos\IksOks\IksOks\obj\Debug\IksOks.csprojAssemblyReference.cache
+C:\Users\Melida\source\repos\IksOks\IksOks\obj\Debug\IksOks.Form1.resources
+C:\Users\Melida\source\repos\IksOks\IksOks\obj\Debug\IksOks.Properties.Resources.resources
+C:\Users\Melida\source\repos\IksOks\IksOks\obj\Debug\IksOks.csproj.GenerateResource.cache
+C:\Users\Melida\source\repos\IksOks\IksOks\obj\Debug\IksOks.csproj.CoreCompileInputs.cache
+C:\Users\Melida\source\repos\IksOks\IksOks\bin\Debug\IksOks.exe.config
+C:\Users\Melida\source\repos\IksOks\IksOks\bin\Debug\IksOks.exe
+C:\Users\Melida\source\repos\IksOks\IksOks\bin\Debug\IksOks.pdb
+C:\Users\Melida\source\repos\IksOks\IksOks\obj\Debug\IksOks.exe
+C:\Users\Melida\source\repos\IksOks\IksOks\obj\Debug\IksOks.pdb
