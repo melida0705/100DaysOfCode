@@ -1,0 +1,10 @@
+C:\Users\Melida\source\repos\ProbaSnake\ProbaSnake\obj\Debug\ProbaSnake.csprojAssemblyReference.cache
+C:\Users\Melida\source\repos\ProbaSnake\ProbaSnake\obj\Debug\ProbaSnake.Form1.resources
+C:\Users\Melida\source\repos\ProbaSnake\ProbaSnake\obj\Debug\ProbaSnake.Properties.Resources.resources
+C:\Users\Melida\source\repos\ProbaSnake\ProbaSnake\obj\Debug\ProbaSnake.csproj.GenerateResource.cache
+C:\Users\Melida\source\repos\ProbaSnake\ProbaSnake\obj\Debug\ProbaSnake.csproj.CoreCompileInputs.cache
+C:\Users\Melida\source\repos\ProbaSnake\ProbaSnake\bin\Debug\ProbaSnake.exe.config
+C:\Users\Melida\source\repos\ProbaSnake\ProbaSnake\bin\Debug\ProbaSnake.exe
+C:\Users\Melida\source\repos\ProbaSnake\ProbaSnake\bin\Debug\ProbaSnake.pdb
+C:\Users\Melida\source\repos\ProbaSnake\ProbaSnake\obj\Debug\ProbaSnake.exe
+C:\Users\Melida\source\repos\ProbaSnake\ProbaSnake\obj\Debug\ProbaSnake.pdb
