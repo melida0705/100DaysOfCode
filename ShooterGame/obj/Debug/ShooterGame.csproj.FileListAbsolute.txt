@@ -1,0 +1,10 @@
+C:\Users\Melida\source\repos\ShooterGame\ShooterGame\bin\Debug\ShooterGame.exe.config
+C:\Users\Melida\source\repos\ShooterGame\ShooterGame\bin\Debug\ShooterGame.exe
+C:\Users\Melida\source\repos\ShooterGame\ShooterGame\bin\Debug\ShooterGame.pdb
+C:\Users\Melida\source\repos\ShooterGame\ShooterGame\obj\Debug\ShooterGame.csprojAssemblyReference.cache
+C:\Users\Melida\source\repos\ShooterGame\ShooterGame\obj\Debug\ShooterGame.Form1.resources
+C:\Users\Melida\source\repos\ShooterGame\ShooterGame\obj\Debug\ShooterGame.Properties.Resources.resources
+C:\Users\Melida\source\repos\ShooterGame\ShooterGame\obj\Debug\ShooterGame.csproj.GenerateResource.cache
+C:\Users\Melida\source\repos\ShooterGame\ShooterGame\obj\Debug\ShooterGame.csproj.CoreCompileInputs.cache
+C:\Users\Melida\source\repos\ShooterGame\ShooterGame\obj\Debug\ShooterGame.exe
+C:\Users\Melida\source\repos\ShooterGame\ShooterGame\obj\Debug\ShooterGame.pdb
