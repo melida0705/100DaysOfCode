@@ -1,0 +1,10 @@
+C:\Users\Melida\source\repos\RacunarskaGrafika\RacunarskaGrafika\bin\Debug\RacunarskaGrafika.exe.config
+C:\Users\Melida\source\repos\RacunarskaGrafika\RacunarskaGrafika\bin\Debug\RacunarskaGrafika.exe
+C:\Users\Melida\source\repos\RacunarskaGrafika\RacunarskaGrafika\bin\Debug\RacunarskaGrafika.pdb
+C:\Users\Melida\source\repos\RacunarskaGrafika\RacunarskaGrafika\obj\Debug\RacunarskaGrafika.csprojAssemblyReference.cache
+C:\Users\Melida\source\repos\RacunarskaGrafika\RacunarskaGrafika\obj\Debug\RacunarskaGrafika.Form1.resources
+C:\Users\Melida\source\repos\RacunarskaGrafika\RacunarskaGrafika\obj\Debug\RacunarskaGrafika.Properties.Resources.resources
+C:\Users\Melida\source\repos\RacunarskaGrafika\RacunarskaGrafika\obj\Debug\RacunarskaGrafika.csproj.GenerateResource.cache
+C:\Users\Melida\source\repos\RacunarskaGrafika\RacunarskaGrafika\obj\Debug\RacunarskaGrafika.csproj.CoreCompileInputs.cache
+C:\Users\Melida\source\repos\RacunarskaGrafika\RacunarskaGrafika\obj\Debug\RacunarskaGrafika.exe
+C:\Users\Melida\source\repos\RacunarskaGrafika\RacunarskaGrafika\obj\Debug\RacunarskaGrafika.pdb
